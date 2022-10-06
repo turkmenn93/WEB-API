@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1qQBtXhtm6nHAkbGy/mNcTqme6wCzt/Q4JteX+C97XsjgG+DtHVz1EO3KvaMFugXFvCJzTS5dxDzP1MVGPllA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eeeab\\OneDrive\\Masaüstü\\KOMPLE\\WEB API YSK\\Udemy.ConsumeAPIApp\\Udemy.ConsumeAPIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eeeab\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

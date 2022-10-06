@@ -1,0 +1,14 @@
+﻿
+<form asp-action="Upload" asp-controller="Home" method="post" enctype="multipart/form-data">
+    <h1>Dosya Ekle</h1>
+    <label>Dosya Secin :</label>
+    <input type="file" name="file" />
+    <br />
+    <hr />
+    
+
+    <div>
+        <a asp-action="Index" asp-controller="Home">Geri Don</a>
+        <button type="submit">Ekle</button>
+    </div>
+</form>

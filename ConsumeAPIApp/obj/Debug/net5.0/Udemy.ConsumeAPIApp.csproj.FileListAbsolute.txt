@@ -1,0 +1,84 @@
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\appsettings.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.exe
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.deps.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.runtimeconfig.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.runtimeconfig.dev.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.Views.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.Views.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.AssemblyReference.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.AssemblyInfoInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.AssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\scopedcss\bundle\Udemy.ConsumeAPIApp.styles.css
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\staticwebassets\Udemy.ConsumeAPIApp.StaticWebAssets.Manifest.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.TagHelpers.input.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.TagHelpers.output.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorCoreGenerate.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorTargetAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorTargetAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.Views.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\refint\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.genruntimeconfig.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\ref\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.CopyComplete
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Upload.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\appsettings.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.exe
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.deps.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.runtimeconfig.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.runtimeconfig.dev.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.Views.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Udemy.ConsumeAPIApp.Views.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.AssemblyReference.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.AssemblyInfoInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.AssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\scopedcss\bundle\Udemy.ConsumeAPIApp.styles.css
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\staticwebassets\Udemy.ConsumeAPIApp.StaticWebAssets.Manifest.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.TagHelpers.input.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.TagHelpers.output.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorCoreGenerate.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Home\Upload.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorTargetAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.RazorTargetAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.Views.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.csproj.CopyComplete
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\refint\Udemy.ConsumeAPIApp.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\Udemy.ConsumeAPIApp.genruntimeconfig.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\Udemy.ConsumeAPIApp\obj\Debug\net5.0\ref\Udemy.ConsumeAPIApp.dll

@@ -1,0 +1,34 @@
+﻿@model List<ProductResponseModel>;
+
+<a asp-action="Create" asp-controller="Home">Add Product</a>
+
+
+<table>
+    <tr>
+        <th>Ürün Adı</th>
+        <th>Ürün Fiyatı</th>
+        <th>Ürün Stoğu</th>
+        <th></th>
+    </tr>
+
+    @{
+        if (Model != null)
+        {
+
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductName </td>
+                    <td>@product.Price </td>
+                    <td>@product.Stock </td>
+                    <td>
+                        <a asp-action="Update" asp-controller="Home" asp-route-id="@product.ID"> Guncelle </a>
+                        <a asp-action="Remove" asp-controller="Home" asp-route-id="@product.ID"> Sil </a>
+                    </td>
+                </tr>
+            }
+        }
+    }
+
+
+</table>

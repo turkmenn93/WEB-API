@@ -1,0 +1,34 @@
+﻿@model ProductResponseModel;
+
+
+@{
+    if(TempData["errorMessage"] != null)
+    {
+    <p style="color : red;">
+            
+            @TempData["errorMessage"]?.ToString();
+        
+    </p>
+    }
+}
+
+<form asp-action="Update" asp-controller="Home" method="post">
+    <h3>Urun Guncelle</h3>
+        <input type="hidden" asp-for="@Model.ID" />
+        <label>Ürün Adı :</label>
+        <input asp-for="@Model.ProductName" />
+        <br />
+        <hr />
+         <label>Ürün Fiyatı :</label>
+        <input asp-for="@Model.Price" />
+        <br />
+        <hr />
+         <label>Ürün Stogu:</label>
+        <input asp-for="@Model.Stock" />
+        <br />
+        <hr />
+            <div>
+                <a asp-action="Index" asp-controller="Home">Geri Don</a>
+                <button type="submit">Ekle</button>
+            </div>
+</form>
